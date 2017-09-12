@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+<br/>
+预览效果：https://benchenchuang.github.io/vue-slide/demo/#/<br/>
+<br/>
+模仿的今日头条的首页tab效果做的：选中的内容如果不是到边缘的就高亮显示在中间
+
+
 ## Build Setup
 
 ``` bash
